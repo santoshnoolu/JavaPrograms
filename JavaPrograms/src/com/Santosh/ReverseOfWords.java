@@ -1,5 +1,6 @@
+package com.Santosh;
 
-public class ReverseOfWords_San {
+public class ReverseOfWords {
 	public static void main(String args[])
 	{
 		String strInput="Welcome to Java";
