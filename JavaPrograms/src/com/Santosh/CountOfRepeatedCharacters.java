@@ -11,7 +11,7 @@ public class CountOfRepeatedCharacters {
 	}
 	public static void countOfRepChars(String strSentence)
 	{
-		String strinpWoSpaces=strSentence.replace(" ","");
+		String strinpWoSpaces=strSentence.replace(" ","").toLowerCase();
 		HashMap<Character, Integer> map= new HashMap<Character,Integer>();
 
 		for(int i=0;i<strinpWoSpaces.length();i++)
