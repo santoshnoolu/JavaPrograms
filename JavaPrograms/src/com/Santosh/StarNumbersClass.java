@@ -4,7 +4,7 @@ public class StarNumbersClass {
 
 	public static void main(String s[])
 	{
-		int n=5;
+		int n=9;
 		for(int i=1;i<=n;i++)
 		{
 			for(int j=n;j>i;j--)
@@ -15,7 +15,7 @@ public class StarNumbersClass {
 			{
 				System.out.print(j);
 			}
-			for(int k=1;k<i;k++)
+			for(int k=i-1;k>=1;k--)
 			{
 				System.out.print(k);
 			}
