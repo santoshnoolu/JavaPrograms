@@ -53,8 +53,6 @@ public class Demo6_FirstNonRepeatedCharacter {
 			if (entry.getValue() == 1) {
 				nonRepeatedChar = entry.getKey();
 				break;
-			} else {
-				nonRepeatedChar = null;
 			}
 		}
 		return nonRepeatedChar;
