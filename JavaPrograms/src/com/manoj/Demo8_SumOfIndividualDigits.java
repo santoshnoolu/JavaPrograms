@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Demo8_SumOfIndividualDigits {
 	public static void main(String[] args) {
-		System.out.println("Starting");
+		
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Please enter number :");
 		long num = scan.nextLong();
