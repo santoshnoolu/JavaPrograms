@@ -21,6 +21,7 @@ public class Demo8_SumOfIntinArrays {
 		int result = sumOfIntArray(intArr);
 		System.out.println("Output :" + result);
 		scan.close();
+		System.out.println("testing");
 	}
 
 	public static int sumOfIntArray(int[] arr) {
