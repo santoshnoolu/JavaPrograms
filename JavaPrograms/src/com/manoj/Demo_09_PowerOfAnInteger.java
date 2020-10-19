@@ -2,7 +2,7 @@ package com.manoj;
 
 import java.util.Scanner;
 
-public class Demo_09_powerOfAnInteger {
+public class Demo_09_PowerOfAnInteger {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 
