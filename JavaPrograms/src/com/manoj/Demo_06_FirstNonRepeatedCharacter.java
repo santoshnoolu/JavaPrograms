@@ -4,7 +4,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Demo6_FirstNonRepeatedCharacter {
+public class Demo_06_FirstNonRepeatedCharacter {
 
 	static Scanner scan;
 	static String inputString;

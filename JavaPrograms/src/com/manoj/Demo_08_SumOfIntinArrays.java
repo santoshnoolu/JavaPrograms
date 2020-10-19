@@ -2,7 +2,7 @@ package com.manoj;
 
 import java.util.Scanner;
 
-public class Demo8_SumOfIntinArrays {
+public class Demo_08_SumOfIntinArrays {
 	public static void main(String[] args) {
 
 		Scanner scan = new Scanner(System.in);

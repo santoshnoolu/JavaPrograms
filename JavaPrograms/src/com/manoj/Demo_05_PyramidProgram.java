@@ -1,6 +1,6 @@
 package com.manoj;
 
-public class Demo5_PyramidProgram {
+public class Demo_05_PyramidProgram {
 
 	public static void main(String[] args) {
 		System.out.println("Pyramid Program");

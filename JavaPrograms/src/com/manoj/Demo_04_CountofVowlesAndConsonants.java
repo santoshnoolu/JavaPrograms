@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Demo4_CountofVowlesAndConsonants {
+public class Demo_04_CountofVowlesAndConsonants {
 	public static void main(String[] args) {
 
 		Scanner scan = new Scanner(System.in);

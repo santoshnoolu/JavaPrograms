@@ -3,7 +3,7 @@ package com.manoj;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Demo2_CountofChars {
+public class Demo_02_CountofChars {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Please enter a String");

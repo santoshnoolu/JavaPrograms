@@ -2,7 +2,7 @@ package com.manoj;
 
 import java.util.Scanner;
 
-public class Demo7_NoOfPossibleSubStrings {
+public class Demo_07_NoOfPossibleSubStrings {
 
 	static Scanner scan;
 	static String inputString;
