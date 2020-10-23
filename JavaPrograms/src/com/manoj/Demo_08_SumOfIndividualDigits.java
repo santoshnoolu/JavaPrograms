@@ -2,7 +2,7 @@ package com.manoj;
 
 import java.util.Scanner;
 
-public class Demo8_SumOfIndividualDigits {
+public class Demo_08_SumOfIndividualDigits {
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);

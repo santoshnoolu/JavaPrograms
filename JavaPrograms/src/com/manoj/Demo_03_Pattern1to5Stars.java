@@ -1,6 +1,6 @@
 package com.manoj;
 
-public class Demo3_Pattern1to5Stars {
+public class Demo_03_Pattern1to5Stars {
 	public static void main(String[] args) {
 		char c = '*';
 		for (int i = 1; i <= 5; i++) {

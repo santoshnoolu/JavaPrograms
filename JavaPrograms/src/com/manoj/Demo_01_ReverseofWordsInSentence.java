@@ -2,7 +2,7 @@ package com.manoj;
 
 import java.util.Scanner;
 
-public class Demo1_ReverseofWordsInSentence {
+public class Demo_01_ReverseofWordsInSentence {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
